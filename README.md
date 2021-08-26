@@ -1,6 +1,4 @@
-### 来自中国合肥的程序员一枚. 
-### 欢迎加我好友一起学习. 
-### QQ:2667797691. 
+### Welcome 👏. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luolikong950412&show_icons=true&theme=dracula). 
 
