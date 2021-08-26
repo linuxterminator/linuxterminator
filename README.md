@@ -1,3 +1,7 @@
+### 来自中国合肥的程序员一枚. 
+### 欢迎加我好友一起学习. 
+### QQ:2667797691. 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luolikong950412&show_icons=true&theme=dracula). 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luolikong950412&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
